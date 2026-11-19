@@ -3,17 +3,17 @@
 **Course Outcome:** CO1 — Java fundamentals and object-oriented programming  
 **Total Marks:** 50  
 **Repository Name:** `CSA09-RA2311003010001-Assignment1`  
-**GitHub URL:** `https://github.com/UniversityOrg/CSA09-RA2311003010001-Assignment1`  
+**GitHub URL:** `  https://github.com/kingkaster24/JAVA-assignment-1  
 **Document Length:** ~12–15 Academic Page Equivalent (Comprehensive Report)
 
 ---
 
 # Cover Page & System Metadata
-- **Student Name:** [Student Full Name]
-- **Register Number:** RA2311003010001
-- **Degree & Branch:** B.Tech Computer Science & Engineering (Core / AI / DS)
-- **Course Code & Title:** 21CS201J / Programming in Java
-- **Academic Year / Semester:** 2026–2027 / Odd Semester
+- **Student Name:** Gershon A
+- **Register Number:** 1924260231
+- **Degree & Branch:** B.Tech Computer Science & Engineering ( AI / DS)
+- **Course Title:**  Programming in Java
+- **Academic Year :** 2026–2027 
 - **Environment Details:**
   - **OS:** Windows 11 Education 64-bit (Build 22631)
   - **JDK Version:** OpenJDK 21.0.2 (LTS), Java SE Runtime Environment (build 21.0.2+13-58)
